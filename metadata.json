@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Offline-first expense, budget, and tax deduction tracker with on-device receipt scanning, encrypted storage, and stacked category analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

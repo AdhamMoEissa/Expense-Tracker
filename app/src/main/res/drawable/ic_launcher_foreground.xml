@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center 66dp safe zone (x: 21 to 87, y: 21 to 87) -->
+    <!-- Financial Shield background -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,23 C68,23 78,28 78,28 C78,51 68,71 54,82 C40,71 30,51 30,28 C30,28 40,23 54,23 Z" />
+    <!-- Inner Dark Shield -->
+    <path
+        android:fillColor="#042F2E"
+        android:pathData="M54,27 C65,27 73,31 73,31 C73,49 65,66 54,76 C43,66 35,49 35,31 C35,31 43,27 54,27 Z" />
+    <!-- Receipt / Ledger card -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M43,36 H65 V67 L61,65 L57,67 L54,65 L51,67 L47,65 L43,67 Z" />
+    <!-- Receipt header line -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M46,40 H62 V42 H46 Z" />
+    <!-- Multi-colored stacked bars inside receipt -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M46,55 H49 V61 H46 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M50,50 H53 V61 H50 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,46 H57 V61 H54 Z" />
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M58,52 H61 V61 H58 Z" />
+    <!-- Scan / Sparkle badge -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M65,33 L67,37 L71,39 L67,41 L65,45 L63,41 L59,39 L63,37 Z" />
+</vector>
